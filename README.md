@@ -8,7 +8,7 @@ Cápsulas
 
 Conozca a la experta y acceda a las cápsulas
 
-Cápsula 1: youtube.com/watch?v=kPbadSSGnyA&ab_channel=ComunicacionesCAC-BackUp
+Cápsula 1: https://www.youtube.com/watch?v=kPbadSSGnyA&ab_channel=ComunicacionesCAC-BackUp 
 
 Cápsula 2: https://www.youtube.com/watch?v=SKAzgHquJLs&ab_channel=ComunicacionesCAC-BackUp
 
