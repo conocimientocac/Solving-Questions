@@ -1,6 +1,9 @@
 # Solving-Questions
 Mecanismos de resolución de conflictos para empresarios
 
+https://github.com/conocimientocac/Solving-Questions/blob/main/BannerSolving.png
+
+
 Cápsulas
 
 Conozca a la experta y acceda a las cápsulas
